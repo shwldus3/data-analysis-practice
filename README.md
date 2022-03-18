@@ -1,2 +1,2 @@
-# kaggle_data_analysis
+# data-analysis-practice
 Practice data analysis with kaggle and dacon
